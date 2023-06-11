@@ -20,6 +20,8 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 React.js, JavaScript, JSON, React-Bootstrap, CSS, HTML
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Installation
 ```
