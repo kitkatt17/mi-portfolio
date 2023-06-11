@@ -25,7 +25,7 @@ React.js, JavaScript, JSON, React-Bootstrap, CSS, HTML
 ```
 npm install
 npm start
-http://localhost:3000 on browser
+Open http://localhost:3000 on browser
 Then, deploy on Heroku
 ```
 
