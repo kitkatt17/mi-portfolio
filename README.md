@@ -27,23 +27,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 npm install
 npm start
-Open http://localhost:3000 on browser
-Then, deploy on Heroku
+Open http://localhost:3000 on browser to view
 ```
 
 ## Visual
 
-![Application Screenshot 1]()
+![Application Screenshot 1](./assets/ss-React-Portfolio.png)
 
-![Application Screenshot 2]()
+![Application Screenshot 2](./assets/ss-React-Portfolio2.png)
 
 
 ## Links
 
 [GitHub Repo](https://github.com/kitkatt17/mi-portfolio)
 
-Deployed Heroku Link: 
-<!-- Insert link here: -->
+[Deployed Link](https://kitkatt17.github.io/mi-portfolio/)
+
 
 
 ## License
