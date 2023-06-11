@@ -7,7 +7,7 @@ My React Portfolio
 
 ## Description
 
-This is an application that is used to showcase my portfolio, resume and projects that I have worked on. I wanted to be able to show employers/other developers to work together and collaborate on future projects. There will be a "contact me" for future and further communication. I will also link my "LinkedIn" and "GitHub" on the footer of my application.
+This is an application that is used to showcase my portfolio, resume and projects that I have worked on. I wanted to be able to show employers/other developers to work together and collaborate on future projects. There will be a 'contact me' for future and further communication. I will also link my "LinkedIn" and "GitHub" on the footer of my application.
 
 ## User Story
 ```
@@ -15,6 +15,11 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 ```
+
+## Technologies Used
+
+React.js, JavaScript, JSON, React-Bootstrap, CSS, HTML
+
 
 ## Installation
 ```
@@ -26,9 +31,9 @@ Then, deploy on Heroku
 
 ## Visual
 
-![Application Screenshot EX 1]()
+![Application Screenshot 1]()
 
-![Application Screenshot EX 2]()
+![Application Screenshot 2]()
 
 
 ## Links
